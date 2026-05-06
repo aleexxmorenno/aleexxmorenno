@@ -17,32 +17,32 @@ Experienced in transforming complex data into actionable insights and developing
 ---
 
 ## 🛠 Technical Stack
-* [cite_start]**Languages:** Python, R, SQL [cite: 27]
-* [cite_start]**AI/ML Frameworks:** Scikit-learn, TensorFlow, PyTorch, LLMs & Prompt Engineering [cite: 27]
-* [cite_start]**Data Tools:** Power BI, Tableau, Excel, Pandas, NumPy [cite: 27]
-* [cite_start]**DevOps & Cloud:** Docker, Git/GitHub, Terraform, Google Cloud Platform (GCP) [cite: 19, 20, 27]
-* [cite_start]**Specialties:** Statistical analysis, Data preprocessing, Model deployment, Web Scraping [cite: 27]
+* **Languages:** Python, R, SQL
+* **AI/ML Frameworks:** Scikit-learn, TensorFlow, PyTorch, LLMs & Prompt Engineering
+* **Data Tools:** Power BI, Tableau, Excel, Pandas, NumPy
+* **DevOps & Cloud:** Docker, Git/GitHub, Terraform, Google Cloud Platform (GCP)
+* **Specialties:** Statistical analysis, Data preprocessing, Model deployment, Web Scraping
 
 ---
 
 ## 📁 Featured Projects
 
 ### 🧬 [Portfolio Optimization using Genetic Algorithms](LINK_A_TU_REPO)
-[cite_start]*Developed and compared portfolio optimization models based on Markowitz theory and genetic algorithms, analyzing performance under different market conditions[cite: 12].*
+*Developed and compared portfolio optimization models based on Markowitz theory and genetic algorithms, analyzing performance under different market conditions.*
 
 ### 🍽️ [Restaurant Recommendation App (GenAI)](LINK_A_TU_REPO)
-[cite_start]*Generative AI system using LLMs, integrated with Google Cloud services (Cloud Run, Firestore, BigQuery) and deployed with Docker and Terraform[cite: 19, 20].*
+*Generative AI system using LLMs, integrated with Google Cloud services (Cloud Run, Firestore, BigQuery) and deployed with Docker and Terraform.*
 
 ### 🏥 [Cardiology Data Analysis](LINK_A_TU_REPO)
-*In-depth EDA and preprocessing on highly noisy datasets. [cite_start]Built predictive models to determine disease severity **(Awarded Highest Grade in Project)**[cite: 17, 18].*
+*In-depth EDA and preprocessing on highly noisy datasets. Built predictive models to determine disease severity **(Awarded Highest Grade in Project)**.*
 
 ---
 
 ## 🌍 Languages
-* [cite_start]**Spanish:** Native [cite: 29]
-* [cite_start]**Valencian/Catalan:** Native [cite: 29]
-* [cite_start]**English:** Professional Working Proficiency [cite: 29]
-* [cite_start]**Italian:** Intermediate [cite: 29]
+* **Spanish:** Native
+* **Valencian/Catalan:** Native
+* **English:** Professional Working Proficiency
+* **Italian:** Intermediate
 
 ---
 
