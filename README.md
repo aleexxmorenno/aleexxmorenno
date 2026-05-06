@@ -3,7 +3,7 @@
 # Hi there, I'm Alejandro Moreno 👋
 
 ### Business and Data Analyst | AI & Machine Learning Specialist
-Experienced in transforming complex data into actionable insights and developing intelligent systems. [cite_start]Currently pursuing an **MSc in Artificial Intelligence and Machine Learning** at EDEM  [cite_start]and preparing for the **Google Cloud Professional ML Engineer** certification[cite: 4].
+Experienced in transforming complex data into actionable insights and developing intelligent systems. Currently pursuing an **MSc in Artificial Intelligence and Machine Learning** at EDEM and preparing for the **Google Cloud Professional ML Engineer** certification.
 
 ---
 
@@ -27,7 +27,7 @@ Experienced in transforming complex data into actionable insights and developing
 
 ## 📁 Featured Projects
 
-### 🧬 [Portfolio Optimization using Genetic Algorithms](LINK_A_TU_REPO)
+### 🧬 [Portfolio Optimization using Genetic Algorithms](https://github.com/aleexxmorenno/TFG)
 *Developed and compared portfolio optimization models based on Markowitz theory and genetic algorithms, analyzing performance under different market conditions.*
 
 ### 🍽️ [Restaurant Recommendation App (GenAI)](https://github.com/iTzPauG/DataProject3)
