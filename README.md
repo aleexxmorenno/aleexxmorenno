@@ -41,14 +41,13 @@ Experienced in transforming complex data into actionable insights and developing
 ## 🌍 Languages
 * [cite_start]**Spanish:** Native [cite: 29]
 * [cite_start]**Valencian/Catalan:** Native [cite: 29]
-* [cite_start]**English:** Intermediate (Professional Working Proficiency) [cite: 29]
+* [cite_start]**English:** Professional Working Proficiency [cite: 29]
 * [cite_start]**Italian:** Intermediate [cite: 29]
 
 ---
 
 ## 📫 Connect with me:
-* **LinkedIn:** [linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/TU_USUARIO)
-* [cite_start]**Email:** alejandro.m.sapena@gmail.com [cite: 6]
-* [cite_start]**Location:** Valencia, Spain [cite: 9]
+* **LinkedIn:** [linkedin.com/in/alejandro-moreno-sapena](https://www.linkedin.com/in/alejandro-moreno-sapena-6aa395220)
+
 
 </span>
