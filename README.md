@@ -30,11 +30,11 @@ Experienced in transforming complex data into actionable insights and developing
 ### 🧬 [Portfolio Optimization using Genetic Algorithms](LINK_A_TU_REPO)
 *Developed and compared portfolio optimization models based on Markowitz theory and genetic algorithms, analyzing performance under different market conditions.*
 
-### 🍽️ [Restaurant Recommendation App (GenAI)](LINK_A_TU_REPO)
-*Generative AI system using LLMs, integrated with Google Cloud services (Cloud Run, Firestore, BigQuery) and deployed with Docker and Terraform.*
+### 🍽️ [Restaurant Recommendation App (GenAI)](https://github.com/iTzPauG/DataProject3)
+*Generative AI system using LLMs, integrated with Google Cloud services.*
 
-### 🏥 [Cardiology Data Analysis](LINK_A_TU_REPO)
-*In-depth EDA and preprocessing on highly noisy datasets. Built predictive models to determine disease severity **(Awarded Highest Grade in Project)**.*
+### 🧠 [Machine Learning Project - Cardiology Data Analysis](https://github.com/jusefek/ProyectoIAEDEMDRsHuntington-Recklinghausen)
+*In-depth EDA and preprocessing on highly noisy datasets. Built predictive models to determine disease severity **(Highest Grade in Project)**.*
 
 ---
 
