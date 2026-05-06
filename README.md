@@ -36,12 +36,11 @@ Experienced in transforming complex data into actionable insights and developing
 ### 🧠 [Machine Learning Project - Cardiology Data Analysis](https://github.com/jusefek/ProyectoIAEDEMDRsHuntington-Recklinghausen)
 *In-depth EDA and preprocessing on highly noisy datasets. Built predictive models to determine disease severity **(Highest Grade in Project)**.*
 
-### 🔄 [Iterative Content Pipeline - LoopAgent](looping: https://github.com/aleexxmorenno/ADK1)
+### 🔄 [Iterative Content Pipeline - LoopAgent](https://github.com/aleexxmorenno/ADK1)
 *Advanced Agentic workflow using the ADK **LoopAgent** and **SequentialAgent** patterns. Features a self-correcting system where a "Reviewer" and "Refiner" iterate up to 10 times to ensure maximum quality in automated technical content generation.*
 
-### 🤖 [Multi-Agent Specialist Hub (ADK)](https://github.com/aleexxmorenno/multiagent
-)
-*Orchestration of specialized autonomous agents (**Book Recommender, Crypto Analyst, and News Analyst**) utilizing  **Tools**. Demonstrates intelligent task routing and autonomous function calling to provide expert-level insights across diverse domains.*
+### 🤖 [Multi-Agent Specialist Hub (ADK)](https://github.com/aleexxmorenno/multiagent)
+*Orchestration of specialized autonomous agents (**Book Recommender, Crypto Analyst, and News Analyst**) utilizing **Tools**. Demonstrates intelligent task routing and autonomous function calling to provide expert-level insights across diverse domains.*
 
 ### ⛓️ [LangChain & RAG Pipeline](https://github.com/aleexxmorenno/rag)
 *Development of RAG (Retrieval-Augmented Generation) systems for querying private knowledge bases, optimizing information retrieval and improving LLM response accuracy.*
